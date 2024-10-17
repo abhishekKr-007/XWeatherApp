@@ -27,7 +27,6 @@ function App() {
 
   return (
     <div className="app">
-      <h1>Weather Application</h1>
       <div className="search-bar">
         <input
           type="text"
